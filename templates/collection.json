@@ -1,0 +1,170 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"plp-template": {
+			"type": "collection-template",
+			"settings": {
+				"show_img": true,
+				"show_description": true,
+				"enable_product_cards_indent": false,
+				"show_color_swatch_in_filters": false,
+				"show_grid_selector": false,
+				"filters_type": "drawer",
+				"paginate_by": 20,
+				"paginate_by_basic_grid": 16,
+				"pagination_type": "pagination",
+				"grid_view": "big_card",
+				"full_width_grid": true,
+				"offset_top_desktop": 35,
+				"offset_bottom_desktop": 60,
+				"offset_top_mobile": 25,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"banner": {
+			"type": "banner",
+			"blocks": {
+				"banner_block": {
+					"type": "full_width",
+					"settings": {
+						"desktop_image_height": "600px",
+						"mobile_image_height": "350px",
+						"media_type": "html_video",
+						"label": "HURRY UP",
+						"heading": "BIG SALE",
+						"text": "<p>Hurry, don't miss out on our exclusive sale!</p>",
+						"button_text": "Learn more",
+						"button_url": "/",
+						"button_aria": "Button label",
+						"make_link_full_media": false,
+						"overlay_opacity": 30,
+						"overlay_color": "#000000",
+						"image_border_width": 1,
+						"enable_lazy_load": true,
+						"content_alignment": "center",
+						"content_alignment_mobile": "center",
+						"block_alignment": "center"
+					}
+				}
+			},
+			"block_order": [
+				"banner_block"
+			],
+			"settings": {
+				"section_background": "#222222",
+				"text_color": "#ffffff",
+				"link_color": "#d33636",
+				"button_background": "#ffffff",
+				"button_color": "#000000",
+				"button_border": "#ffffff",
+				"button_background_hover": "#000000",
+				"button_color_hover": "#ffffff",
+				"button_border_hover": "#ffffff",
+				"image_border_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 70,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"benefits": {
+			"type": "benefits",
+			"blocks": {
+				"benefits_0": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "100 days return",
+						"text": "No questions asked",
+						"block_link": "/",
+						"button_aria": "Read more about Shipping and Delivery"
+					}
+				},
+				"benefits_1": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Lifetime Warranty",
+						"text": "For original owners",
+						"button_aria": "Read more about Privacy Policy"
+					}
+				},
+				"benefits_2": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Customer Service",
+						"text": "Our priority",
+						"block_link": "/",
+						"button_aria": "Go to Contact page"
+					}
+				}
+			},
+			"block_order": [
+				"benefits_0",
+				"benefits_1",
+				"benefits_2"
+			],
+			"settings": {
+				"section_background": "#ffffff",
+				"heading_color": "#000000",
+				"text_color": "#757575",
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"show_borders": false,
+				"offset_top_desktop": 40,
+				"offset_bottom_desktop": 40,
+				"offset_top_mobile": 50,
+				"offset_bottom_mobile": 50
+			}
+		},
+		"newsletter": {
+			"type": "newsletter",
+			"settings": {
+				"layout": "two_column",
+				"heading": "Newsletter",
+				"subheading": "The Latest products & Offers",
+				"success_message": "Thanks for subscribing",
+				"text": "<p>Be the first to know about new collections and exclusive offers</p>",
+				"image_position": "left",
+				"email_placeholder": "Your email",
+				"button_aria_label": "Submit",
+				"section_background": "#fafafa",
+				"heading_color": "#757575",
+				"text_color": "#000000",
+				"input_color": "#000000",
+				"input_border_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"ticker": {
+			"type": "ticker",
+			"settings": {
+				"text": "<p>$3.99 flat rate shipping | Free shippin on orders $50+(Cont.US) Subscribe Today</p><p>Free shipping on orders over $44 Lear More</p><p>Become a subscriber and receive 15% off + free shipping!</p>",
+				"desktop_movement_speed": 97,
+				"mobile_movement_speed": 93,
+				"section_background": "#ffffff",
+				"text_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		}
+	},
+	"order": [
+		"plp-template",
+		"banner",
+		"benefits",
+		"newsletter",
+		"ticker"
+	]
+}

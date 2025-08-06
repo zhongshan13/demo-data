@@ -1,0 +1,1203 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"slideshow": {
+			"type": "slideshow",
+			"blocks": {
+				"image-1": {
+					"type": "image",
+					"settings": {
+						"label": "",
+						"heading": "Christmas event",
+						"description": "<p>Christmas is always a happy time! Who isn't happy around this time of year. Planning ahead is key to holiday happiness. Planning and organizing will allow you to sit back and relax during the holiday and Christmas season!</p>",
+						"button_text": "about mio project",
+						"button_aria_label": "read more",
+						"button_link": "/",
+						"open_in_new_tab": false,
+						"make_link_full_slide": false,
+						"second_button_text": "Show collection",
+						"second_button_aria_label": "",
+						"second_button_link": "/",
+						"second_open_in_new_tab": false,
+						"text_alignment_inside_block": "right",
+						"content_alignment": "slideshow__slide-content--right",
+						"background_color": "#757575",
+						"background_content": "",
+						"label_color": "#ffffff",
+						"heading_color": "#ffffff",
+						"description_color": "#ffffff",
+						"button_text_color": "#000000",
+						"button_background_color": "#ffffff",
+						"button_border_color": "rgba(0,0,0,0)",
+						"button_text_color_hover": "#ffffff",
+						"button_background_color_hover": "#000000",
+						"button_border_color_hover": "rgba(0,0,0,0)",
+						"second_button_text_color": "#ffffff",
+						"second_button_background_color": "#000000",
+						"second_button_border_color": "#000000",
+						"second_button_text_color_hover": "#000000",
+						"second_button_background_color_hover": "#ffffff",
+						"second_button_border_color_hover": "#000000",
+						"overlay_color": ""
+					}
+				},
+				"image-2": {
+					"type": "image",
+					"settings": {
+						"label": "",
+						"heading": "KAMPPI HELSINKI",
+						"description": "<p>For Kamppi’s 15th anniversary Celebrating Campaign, we created enormously high Paper flower garden as a focal centerpiece in the shopping mall. Placed on a high podium, our paper art installation stretched 4m high, giving the feeling of Alice in Wonderland scenes.</p>",
+						"button_text": "Read more",
+						"button_aria_label": "Read more",
+						"button_link": "/",
+						"open_in_new_tab": false,
+						"make_link_full_slide": false,
+						"second_button_text": "",
+						"second_button_aria_label": "",
+						"second_button_link": "/",
+						"second_open_in_new_tab": false,
+						"text_alignment_inside_block": "left",
+						"content_alignment": "slideshow__slide-content--left",
+						"background_color": "#000000",
+						"background_content": "",
+						"label_color": "#ffffff",
+						"heading_color": "#ffffff",
+						"description_color": "#ffffff",
+						"button_text_color": "#000000",
+						"button_background_color": "#ffffff",
+						"button_border_color": "rgba(0,0,0,0)",
+						"button_text_color_hover": "#ffffff",
+						"button_background_color_hover": "#000000",
+						"button_border_color_hover": "rgba(0,0,0,0)",
+						"second_button_text_color": "#ffffff",
+						"second_button_background_color": "#000000",
+						"second_button_border_color": "#000000",
+						"second_button_text_color_hover": "#000000",
+						"second_button_background_color_hover": "#ffffff",
+						"second_button_border_color_hover": "#000000",
+						"overlay_color": ""
+					}
+				},
+				"image-3": {
+					"type": "image",
+					"settings": {
+						"label": "",
+						"heading": "ONE HUNDRED SHOREDITH",
+						"description": "<p>Cooperating with Lore Group, led by creative director Jacu Strauss for the second time, we worked on the project for One Hundred Shoredith hotel in London, UK.</p>",
+						"button_text": "Read more",
+						"button_aria_label": "Read more",
+						"button_link": "/",
+						"open_in_new_tab": false,
+						"make_link_full_slide": false,
+						"second_button_text": "",
+						"second_button_aria_label": "",
+						"second_button_link": "/",
+						"second_open_in_new_tab": false,
+						"text_alignment_inside_block": "center",
+						"content_alignment": "slideshow__slide-content--center",
+						"background_color": "#757575",
+						"background_content": "",
+						"label_color": "#ffffff",
+						"heading_color": "#ffffff",
+						"description_color": "#ffffff",
+						"button_text_color": "#000000",
+						"button_background_color": "#ffffff",
+						"button_border_color": "rgba(0,0,0,0)",
+						"button_text_color_hover": "#ffffff",
+						"button_background_color_hover": "#000000",
+						"button_border_color_hover": "rgba(0,0,0,0)",
+						"second_button_text_color": "#ffffff",
+						"second_button_background_color": "#000000",
+						"second_button_border_color": "#000000",
+						"second_button_text_color_hover": "#000000",
+						"second_button_background_color_hover": "#ffffff",
+						"second_button_border_color_hover": "#000000",
+						"overlay_color": ""
+					}
+				}
+			},
+			"block_order": [
+				"image-1",
+				"image-2",
+				"image-3"
+			],
+			"settings": {
+				"desktop_slide_per_view": "1",
+				"height_desktop": 100,
+				"height_mobile": 95,
+				"subtract_header_height": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0,
+				"show_arrows": true,
+				"show_pagination": true,
+				"show_progress_bar": false,
+				"enable_loop": true,
+				"enable_autoplay": true,
+				"autoplay_speed": 7,
+				"animation_speed": 0.5,
+				"animation_type": "slide",
+				"enable_lazy_load": false,
+				"background_color": "#e4feff",
+				"progress_bar_color": "#ffffff",
+				"arrows_color": "#ffffff",
+				"pagination_color": "#ffffff"
+			}
+		},
+		"ticker_1": {
+			"type": "ticker",
+			"settings": {
+				"text": "<h3>Guerlain </h3><h3>LVMH Group </h3><h3>Gucci </h3><h3>Riggs Hotel </h3><h3>Veuve Clicquo </h3><h3>Lladró </h3><h3>PuroBio Cosmetics </h3><h3>Buddha Bar </h3><h3>Mäntelhaus Keiserand</h3>",
+				"desktop_movement_speed": 94,
+				"mobile_movement_speed": 100,
+				"section_background": "#000000",
+				"text_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"collection_list_1": {
+			"type": "collection-list",
+			"blocks": {
+				"collection_list_1": {
+					"type": "collection",
+					"settings": {}
+				},
+				"collection_list_2": {
+					"type": "collection",
+					"settings": {}
+				},
+				"collection_list_3": {
+					"type": "collection",
+					"settings": {}
+				},
+				"collection_list_4": {
+					"type": "collection",
+					"settings": {}
+				}
+			},
+			"block_order": [
+				"collection_list_1",
+				"collection_list_2",
+				"collection_list_3",
+				"collection_list_4"
+			],
+			"settings": {
+				"heading": "COLLESTION LIST",
+				"link_url": "/",
+				"link_text": "Shop all",
+				"link_aria_label_text": "Shop all",
+				"text_alignment": "left",
+				"button_style": "primary",
+				"aspect_ratio": "portrait",
+				"show_products_count": false,
+				"full_width": false,
+				"offset_top_desktop": 90,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 60,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"featured-collection": {
+			"type": "featured-collection",
+			"settings": {
+				"label": "New collection",
+				"heading": "Best sellers",
+				"link_aria_label_text": "",
+				"button_style": "primary",
+				"layout": "5",
+				"enable_cards_indent": false,
+				"full_width": true,
+				"offset_top_desktop": 90,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 60,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"reviews": {
+			"type": "reviews",
+			"blocks": {
+				"reviews-0": {
+					"type": "review",
+					"settings": {
+						"review_text": "The handmade paper flowers are a marvel! Lifelike petals and intricate details make them a beautiful and everlasting addition to any decor.",
+						"review_author_name": "Mia Thompson",
+						"review_additional_info": "Craft Review"
+					}
+				},
+				"reviews-1": {
+					"type": "review",
+					"settings": {
+						"review_text": "These handmade paper flowers breathe life into any space. The vibrant colors and delicate craftsmanship bring joy and elegance to my home!",
+						"review_author_name": "Ethan Parker",
+						"review_additional_info": "Home Decor Review"
+					}
+				},
+				"reviews-2": {
+					"type": "review",
+					"settings": {
+						"review_text": "The paper flower arrangements at my wedding were showstoppers! Guests couldn't believe they weren't real. A perfect touch of enchantment!",
+						"review_author_name": "Olivia Mitchell",
+						"review_additional_info": "Event Review"
+					}
+				},
+				"reviews-3": {
+					"type": "review",
+					"settings": {
+						"review_text": "The handmade paper flower bouquet I received was a delightful surprise! It's a forever gift that brightens up my day. Truly special!",
+						"review_author_name": "Noah Jenkins",
+						"review_additional_info": "Gift Review"
+					}
+				},
+				"reviews-4": {
+					"type": "review",
+					"settings": {
+						"review_text": "Creating my own paper flowers with the DIY kit was so much fun! The instructions were clear, and the result was a bouquet I'm proud of.",
+						"review_author_name": "Harper Adams",
+						"review_additional_info": "DIY Review"
+					}
+				}
+			},
+			"block_order": [
+				"reviews-0",
+				"reviews-1",
+				"reviews-2",
+				"reviews-3",
+				"reviews-4"
+			],
+			"settings": {
+				"heading": "TESTIMONIALS",
+				"enable_autoplay": false,
+				"autoplay_speed": 3,
+				"layout": "only_text",
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 100,
+				"offset_bottom_mobile": 100,
+				"product_info_text_color": "#000000",
+				"product_info_background_color": "#ffffff"
+			}
+		},
+		"image_with_text_1": {
+			"type": "image-with-text",
+			"settings": {
+				"image_position": "right",
+				"text_alignment": "left",
+				"heading": "Wall Paper Flowers",
+				"subheading": "",
+				"text_content": "<p>Discover our bespoke and charming wall paper flowers sets. Use as a nursery wall hanging, wedding backdrop or décor in your lovely space!</p>",
+				"button_label": "Shop now",
+				"button_aria_label": "Shop now",
+				"button_url": "/",
+				"button_style": "primary",
+				"is_show_border_top": false,
+				"is_show_border_bottom": false,
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"offset_top_desktop": 22,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"image_with_text_2": {
+			"type": "image-with-text",
+			"settings": {
+				"image_position": "left",
+				"text_alignment": "left",
+				"heading": "Single Paper Flowers",
+				"subheading": "",
+				"text_content": "<p>Shop our gorgeous, whimsical and surreal large paper flower that is absolutely on point. Use it for Weddings, Love Stories, Baby Showers, as Presents and Gifts.</p>",
+				"button_label": "Shop now",
+				"button_aria_label": "Shop now",
+				"button_url": "/",
+				"button_style": "primary",
+				"is_show_border_top": false,
+				"is_show_border_bottom": false,
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"trend_products": {
+			"type": "trends-products",
+			"blocks": {
+				"trend_products_1": {
+					"type": "product",
+					"settings": {
+						"horizontal_position_1": 83,
+						"vertical_position_1": 67,
+						"horizontal_position_2": 50,
+						"vertical_position_2": 50,
+						"horizontal_position_3": 75,
+						"vertical_position_3": 75
+					}
+				},
+				"trend_products_2": {
+					"type": "product",
+					"settings": {
+						"horizontal_position_1": 16,
+						"vertical_position_1": 31,
+						"horizontal_position_2": 50,
+						"vertical_position_2": 50,
+						"horizontal_position_3": 75,
+						"vertical_position_3": 75
+					}
+				},
+				"trend_products_3": {
+					"type": "product",
+					"settings": {
+						"horizontal_position_1": 60,
+						"vertical_position_1": 52,
+						"horizontal_position_2": 37,
+						"vertical_position_2": 37,
+						"horizontal_position_3": 75,
+						"vertical_position_3": 75
+					}
+				}
+			},
+			"block_order": [
+				"trend_products_1",
+				"trend_products_2",
+				"trend_products_3"
+			],
+			"settings": {
+				"title": "TREND PRODUCTS",
+				"show_one_open": false,
+				"full_width": false,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"grid-images": {
+			"type": "grid-images",
+			"blocks": {
+				"grid_image_1": {
+					"type": "grid_image",
+					"settings": {
+						"label": "NEW IDEAS FOR",
+						"heading": "2025",
+						"image_border_width": 1,
+						"image_border_indent": 10,
+						"url": "/",
+						"overlay_color": "#000000",
+						"text_color": "#ffffff",
+						"image_border_color": "#ffffff",
+						"overlay": 5
+					}
+				},
+				"grid_image_2": {
+					"type": "grid_image",
+					"settings": {
+						"label": "TOP 5 Projects for",
+						"heading": "WEDDING",
+						"image_border_width": 1,
+						"image_border_indent": 10,
+						"url": "/",
+						"overlay_color": "#000000",
+						"text_color": "#ffffff",
+						"image_border_color": "#ffffff",
+						"overlay": 15
+					}
+				}
+			},
+			"block_order": [
+				"grid_image_1",
+				"grid_image_2"
+			],
+			"settings": {
+				"big_image_position": "second",
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 100,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"product_tabs": {
+			"type": "product-tabs",
+			"blocks": {
+				"product_tabs_1": {
+					"type": "tab",
+					"settings": {
+						"heading": "WALL DECOR"
+					}
+				},
+				"product_tabs_2": {
+					"type": "tab",
+					"settings": {
+						"heading": "GIFTS"
+					}
+				},
+				"product_tabs_3": {
+					"type": "tab",
+					"settings": {
+						"heading": "On sale"
+					}
+				}
+			},
+			"block_order": [
+				"product_tabs_1",
+				"product_tabs_2",
+				"product_tabs_3"
+			],
+			"settings": {
+				"heading": "Customer Favorites",
+				"enable_cards_indent": false,
+				"full_width": false,
+				"offset_top_desktop": 80,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"product_banner": {
+			"type": "product-banner",
+			"blocks": {
+				"product_banner_1": {
+					"type": "product",
+					"settings": {}
+				},
+				"product_banner_2": {
+					"type": "product",
+					"settings": {}
+				},
+				"product_banner_3": {
+					"type": "product",
+					"settings": {}
+				}
+			},
+			"block_order": [
+				"product_banner_1",
+				"product_banner_2",
+				"product_banner_3"
+			],
+			"settings": {
+				"label": "Eternal Blooms",
+				"heading": "Embrace the Timeless Allure of Handcrafted Paper Flowers",
+				"text": "Paper flowers exude charm and craftsmanship. Delicate petals, vibrant colors, and intricate details create an enchanting ambiance. Add elegance and a touch of nature's beauty to any space with these everlasting blooms. Embrace the artistry of paper flowers and elevate your decor with their timeless allure.",
+				"is_lazy": false,
+				"overlay_opacity": 10,
+				"arrows_color_background": "#ffffff",
+				"arrows_color": "#000000",
+				"label_color": "#ffffff",
+				"heading_color": "#ffffff",
+				"text_color": "#ffffff",
+				"overlay_color": "#000000",
+				"section_background": "",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 20,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"shop_by_brand": {
+			"type": "shop-by-brand",
+			"blocks": {
+				"shop_by_brand_0": {
+					"type": "brand",
+					"settings": {}
+				},
+				"shop_by_brand_1": {
+					"type": "brand",
+					"settings": {}
+				},
+				"shop_by_brand_2": {
+					"type": "brand",
+					"settings": {}
+				},
+				"shop_by_brand_3": {
+					"type": "brand",
+					"settings": {}
+				},
+				"shop_by_brand_4": {
+					"type": "brand",
+					"settings": {}
+				}
+			},
+			"block_order": [
+				"shop_by_brand_0",
+				"shop_by_brand_1",
+				"shop_by_brand_2",
+				"shop_by_brand_3",
+				"shop_by_brand_4"
+			],
+			"settings": {
+				"heading": "TRUSTED BY",
+				"card_background": "#ffffff",
+				"full_width": false,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 100,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"banner_1": {
+			"type": "banner",
+			"blocks": {
+				"countdown_timer_block": {
+					"type": "countdown_timer",
+					"settings": {
+						"desktop_image_height": "600px",
+						"mobile_image_height": "350px",
+						"media_type": "html_video",
+						"label": "Sale",
+						"heading": "Will start in",
+						"text": "",
+						"button_text": "",
+						"button_url": "",
+						"button_aria": "",
+						"make_link_full_media": false,
+						"overlay_opacity": 20,
+						"overlay_color": "#000000",
+						"image_border_width": 1,
+						"enable_lazy_load": true,
+						"timer_year": 2027,
+						"timer_month": "2",
+						"timer_day": "31",
+						"timer_hour": "1",
+						"timer_timezone": "+0",
+						"timer_cell_background_color": "#ededed",
+						"timer_cell_color": "#5f5f5f",
+						"external_video_url_desktop": "",
+						"external_video_url_mobile": "",
+						"content_alignment": "center",
+						"content_alignment_mobile": "center",
+						"block_alignment": "center"
+					}
+				}
+			},
+			"block_order": [
+				"countdown_timer_block"
+			],
+			"settings": {
+				"section_background": "#222222",
+				"text_color": "#ffffff",
+				"link_color": "#d33636",
+				"button_background": "#000000",
+				"button_color": "#ffffff",
+				"button_border": "#000000",
+				"button_background_hover": "#ffffff",
+				"button_color_hover": "#000000",
+				"button_border_hover": "#ffffff",
+				"image_border_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"ticker_2": {
+			"type": "ticker",
+			"settings": {
+				"text": "<h3>Limited Stock Alert!</h3><h3>Explore the Unmatched Sale of Last Year's Collection, Now Accessible in Our Store! </h3><h3>Seize the Moment and Elevate Your Wardrobe Today!</h3>",
+				"desktop_movement_speed": 97,
+				"mobile_movement_speed": 97,
+				"section_background": "#F4f4f4",
+				"text_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"featured_product": {
+			"type": "featured-product",
+			"blocks": {
+				"badges": {
+					"type": "badges",
+					"settings": {}
+				},
+				"vendor": {
+					"type": "vendor",
+					"settings": {}
+				},
+				"title": {
+					"type": "title",
+					"settings": {}
+				},
+				"sku_reviews": {
+					"type": "sku_reviews",
+					"settings": {
+						"show_sku": true,
+						"sku_text": "Art: %SKU%"
+					}
+				},
+				"inventory_status": {
+					"type": "inventory_status",
+					"settings": {
+						"inv_low_stock_text": "Low stock",
+						"inv_high_stock_text": "In stock, ready to ship",
+						"low_stock_threshold": 10
+					}
+				},
+				"countdown_timer": {
+					"type": "countdown_timer",
+					"settings": {
+						"text": "Sale ends in:",
+						"text_color": "#000000",
+						"timer_text_color": "#ffffff",
+						"timer_background_color": "#000000"
+					}
+				},
+				"options": {
+					"type": "options",
+					"settings": {
+						"show_labels": true,
+						"show_size_guide": true,
+						"variant_picker": "select",
+						"size_guide_option_name": "Size",
+						"size_guide_tab_general_name": "Dimensions",
+						"size_guide_tab_model_name": "Parameters of the model in the photo",
+						"size_guide_title": "Size guide",
+						"size_guide_text": "Size guide"
+					}
+				},
+				"quantity": {
+					"type": "quantity",
+					"settings": {
+						"show_label": true
+					}
+				},
+				"price": {
+					"type": "price",
+					"settings": {}
+				},
+				"sales_point_1": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Worldwide shipping"
+					}
+				},
+				"sales_point_2": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Delivery tracking"
+					}
+				},
+				"sales_point_3": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Safety packing"
+					}
+				},
+				"gift_wrap_product": {
+					"type": "gift_wrap_product",
+					"settings": {}
+				},
+				"ask_question": {
+					"type": "ask_question",
+					"settings": {
+						"button_label": "Ask a question",
+						"heading": "Have a question?",
+						"email_placeholder": "Email*",
+						"name_placeholder": "Name*",
+						"phone_placeholder": "Phone",
+						"product_url": "Reference URL*",
+						"message_placeholder": "Write message*",
+						"success_message": "Email has been successfully sent",
+						"submit_button_label": "Submit"
+					}
+				},
+				"custom_field": {
+					"type": "custom_field",
+					"settings": {
+						"field_label": "Your wishes",
+						"required_text": "The text has no mistakes"
+					}
+				},
+				"add_to_cart": {
+					"type": "add_to_cart",
+					"settings": {
+						"button_type": "secondary",
+						"show_additional_buttons": true,
+						"show_enabled_payment_types": false,
+						"show_gift_card_recipient": true
+					}
+				},
+				"pickup_availability": {
+					"type": "pickup_availability",
+					"settings": {}
+				},
+				"drawers": {
+					"type": "drawers",
+					"settings": {
+						"show_description": true,
+						"description_toggle_text": "Description",
+						"description_drawer_title": "Description",
+						"shipping_and_returns_toggle_text": "Shipping and returns",
+						"shipping_and_returns_drawer_title": "Shipping and returns",
+						"custom_drawer_title_1": "Drawer heading"
+					}
+				}
+			},
+			"block_order": [
+				"badges",
+				"vendor",
+				"title",
+				"sku_reviews",
+				"inventory_status",
+				"countdown_timer",
+				"options",
+				"quantity",
+				"price",
+				"sales_point_1",
+				"sales_point_2",
+				"sales_point_3",
+				"gift_wrap_product",
+				"ask_question",
+				"custom_field",
+				"add_to_cart",
+				"pickup_availability",
+				"drawers"
+			],
+			"settings": {
+				"is_lazy": true,
+				"is_zoom_enabled": true,
+				"show_borders": false,
+				"show_arrows_mobile": true,
+				"media_layout": "stacked_2_col",
+				"thumbnails_position": "left",
+				"media_height": "full_size",
+				"stacked_smooth_scroll": true,
+				"show_taxes_included": true,
+				"show_pay_installments": true,
+				"show_share_buttons": true,
+				"border_color": "#e6e6e6",
+				"ui_button_color": "#000000",
+				"ui_button_background_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 40,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"banner_2": {
+			"type": "banner",
+			"blocks": {
+				"two_columns_block": {
+					"type": "two_columns",
+					"settings": {
+						"desktop_image_height": "600px",
+						"mobile_image_height": "350px",
+						"media_type": "image",
+						"media_content_position": "last",
+						"label": "WE KNOW OUR WORK",
+						"heading": "WE KNOW what you need",
+						"text": "<p>Shop our gorgeous, whimsical and surreal large paper flower that is absolutely on point. Use it for Weddings, Love Stories, Baby Showers, as Presents and Gifts, Photo Props, Tea Parties, Birthdays,<br/>Valentine’s day, Decor.</p>",
+						"button_text": "Learn more",
+						"button_url": "",
+						"button_aria": "Button label",
+						"make_link_full_media": false,
+						"overlay_opacity": 0,
+						"image_border_width": 1,
+						"background_image_border_width": 0,
+						"background_image_border_color": "#ffffff",
+						"background_overlay": "#fafafa",
+						"enable_lazy_load": true,
+						"external_video_url_desktop": "",
+						"external_video_url_mobile": "",
+						"content_alignment": "left",
+						"content_alignment_mobile": "center"
+					}
+				}
+			},
+			"block_order": [
+				"two_columns_block"
+			],
+			"settings": {
+				"section_background": "#f1f1f1",
+				"text_color": "#000000",
+				"link_color": "#d33636",
+				"button_background": "#000000",
+				"button_color": "#fafafa",
+				"button_border": "#000000",
+				"button_background_hover": "#ffffff",
+				"button_color_hover": "#000000",
+				"button_border_hover": "#ffffff",
+				"image_border_color": "#ffffff",
+				"offset_top_desktop": 90,
+				"offset_bottom_desktop": 10,
+				"offset_top_mobile": 70,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"text_section": {
+			"type": "text-section",
+			"settings": {
+				"heading": "Shop The look",
+				"subheading": "",
+				"text_content": "",
+				"text_alignment": "center",
+				"section_alignment": "center",
+				"enable_read_more": false,
+				"read_more_text": "Read more",
+				"show_less_text": "Show less",
+				"full_width": false,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 40,
+				"offset_top_mobile": 100,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"shop_the_look": {
+			"type": "shop-the-look",
+			"blocks": {
+				"shop_the_look_0": {
+					"type": "product",
+					"settings": {
+						"point_position_top": 28,
+						"point_position_left": 30
+					}
+				},
+				"shop_the_look_1": {
+					"type": "product",
+					"settings": {
+						"point_position_top": 60,
+						"point_position_left": 53
+					}
+				},
+				"shop_the_look_2": {
+					"type": "product",
+					"settings": {
+						"point_position_top": 50,
+						"point_position_left": 75
+					}
+				}
+			},
+			"block_order": [
+				"shop_the_look_0",
+				"shop_the_look_1",
+				"shop_the_look_2"
+			],
+			"settings": {
+				"title": "",
+				"image_position": "left",
+				"is_lazy": true,
+				"is_point_animated": true,
+				"image_background": "#c4c4c4",
+				"image_border_color": "#e6e6e6",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 40,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"banner_3": {
+			"type": "banner",
+			"blocks": {
+				"banner_block": {
+					"type": "full_width",
+					"settings": {
+						"desktop_image_height": "600px",
+						"mobile_image_height": "350px",
+						"media_type": "html_video",
+						"label": "",
+						"heading": "Woman",
+						"text": "<p>RAINS is a Danish rainwear company founded in 2012. Based on an early initiative to interpret the traditional rubber raincoat in a novel way, the company has, since its foundation, grown into an accomplished international rainwear brand. A</p>",
+						"button_text": "Learn more",
+						"button_url": "/",
+						"button_aria": "Learn more",
+						"make_link_full_media": false,
+						"overlay_opacity": 15,
+						"overlay_color": "#000000",
+						"image_border_width": 1,
+						"enable_lazy_load": true,
+						"content_alignment": "center",
+						"content_alignment_mobile": "center",
+						"block_alignment": "center"
+					}
+				}
+			},
+			"block_order": [
+				"banner_block"
+			],
+			"settings": {
+				"section_background": "#222222",
+				"text_color": "#ffffff",
+				"link_color": "#d33636",
+				"button_background": "#ffffff",
+				"button_color": "#000000",
+				"button_border": "#ffffff",
+				"button_background_hover": "#000000",
+				"button_color_hover": "#ffffff",
+				"button_border_hover": "#ffffff",
+				"image_border_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"story_telling": {
+			"type": "story-telling",
+			"blocks": {
+				"story_telling_0": {
+					"type": "content",
+					"settings": {
+						"tab_heading": "2023",
+						"image_position": "right",
+						"text_alignment": "left",
+						"heading": "MOOY. BEAUTY CONCEPT STORE",
+						"subheading": "About",
+						"text": "<p>The new Paper Flower Arrangement, created by Mio Gallery, depicts a posh summer rose garden at <strong>MOOY</strong> concept store in Antwerpen, Belgium.</p><p>The whimsical paper floral set up is made of ariety of paper roses, hydrangea flowers, lillie flowers, peonies and geranium flowers and leaves.</p>",
+						"button_text": "See more",
+						"button_aria_label": "",
+						"button_link": "/",
+						"background_color": "#ffffff",
+						"text_color": "#000000",
+						"button_label_color": "#ffffff",
+						"button_background_color": "#000000",
+						"button_border_color": "#000000",
+						"button_label_hover_color": "#000000",
+						"button_background_hover_color": "#ffffff",
+						"button_border_hover_color": "#000000"
+					}
+				},
+				"story_telling_1": {
+					"type": "content",
+					"settings": {
+						"tab_heading": "2024",
+						"image_position": "left",
+						"text_alignment": "left",
+						"heading": "GUERLAIN: FLAGSHIP STORE PARIS",
+						"subheading": "About",
+						"text": "<p>A paper-art installation of over 2000 <em>handcrafted paper flowers</em>throughout the legendary boutique to celebrate the launch of the new fragrance, creates airy and delightful atmosphere.</p>",
+						"button_text": "See more",
+						"button_aria_label": "",
+						"button_link": "/",
+						"background_color": "#ffffff",
+						"text_color": "#000000",
+						"button_label_color": "#ffffff",
+						"button_background_color": "#000000",
+						"button_border_color": "#000000",
+						"button_label_hover_color": "#000000",
+						"button_background_hover_color": "#ffffff",
+						"button_border_hover_color": "#000000"
+					}
+				},
+				"story_telling_2": {
+					"type": "content",
+					"settings": {
+						"tab_heading": "2025",
+						"image_position": "right",
+						"text_alignment": "left",
+						"heading": "MIO GALLERY. STUDIO",
+						"subheading": "Our ideas",
+						"text": "<p>This experimental airy flower arrangement was inspired by the Dutch and Flemish painters. In this artwork we tried to combine large scaled blooms along with the tiny flowers which was the distinguished feature of the Jacob de Gheyn’s works.</p>",
+						"button_text": "See more",
+						"button_aria_label": "",
+						"button_link": "/",
+						"background_color": "#ffffff",
+						"text_color": "#000000",
+						"button_label_color": "#ffffff",
+						"button_background_color": "#000000",
+						"button_border_color": "#000000",
+						"button_label_hover_color": "#000000",
+						"button_background_hover_color": "#ffffff",
+						"button_border_hover_color": "#000000"
+					}
+				}
+			},
+			"block_order": [
+				"story_telling_0",
+				"story_telling_1",
+				"story_telling_2"
+			],
+			"settings": {
+				"overlay": 40,
+				"full_width": true,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 10,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 30
+			}
+		},
+		"gallery_carousel": {
+			"type": "gallery-carousel",
+			"blocks": {
+				"gallery_carousel_0": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_1": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_2": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_3": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_4": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_5": {
+					"type": "slide",
+					"settings": {}
+				},
+				"gallery_carousel_6": {
+					"type": "slide",
+					"settings": {}
+				}
+			},
+			"block_order": [
+				"gallery_carousel_0",
+				"gallery_carousel_1",
+				"gallery_carousel_2",
+				"gallery_carousel_3",
+				"gallery_carousel_4",
+				"gallery_carousel_5",
+				"gallery_carousel_6"
+			],
+			"settings": {
+				"heading": "PORTFOLIO",
+				"enable_arrows": false,
+				"enable_autoplay": true,
+				"autoplay_speed": 3,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 30,
+				"offset_top_mobile": 70,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"swipe": {
+			"type": "swipe",
+			"blocks": {
+				"swipe_0": {
+					"type": "content",
+					"settings": {
+						"content_heading": "MIO GALLERY",
+						"content_text": "MIO GALLERY is a paper art studio based in Antwerp, Belgium, specializing in designing and creating bespoke paper art for various applications such as window displays, exhibitions, photography, set design, props, fashion design, and private decor. We have developed our own techniques and style to deliver unique and stunning creations."
+					}
+				},
+				"swipe_1": {
+					"type": "content",
+					"settings": {
+						"content_heading": "At MIO GALLERY",
+						"content_text": "we firmly believe that perfection is in the details, and we strive to make a big difference through meticulous attention to those small details. Our aim is to evoke a \"Wow!\" response with every piece of art we create."
+					}
+				},
+				"swipe_2": {
+					"type": "content",
+					"settings": {
+						"content_heading": "Our designs",
+						"content_text": "Our designs have garnered attention from renowned brands. Some of our esteemed clients include Guerlain, LVMH Group, Gucci, Sephora, Riggs Hotel, Veuve Clicquot, Lladró, Botanic Sanctuary, Buddha Bar, and many others."
+					}
+				}
+			},
+			"block_order": [
+				"swipe_0",
+				"swipe_1",
+				"swipe_2"
+			],
+			"settings": {
+				"enable_lazy_load": true,
+				"heading": "MIO GALLERY. STUDIO\n\nBegijnenvest 40,\nAntwerpen 2000,\nBelgium",
+				"background_color": "#222222",
+				"heading_color": "#ffffff",
+				"text_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"featured-blog": {
+			"type": "featured-blog",
+			"settings": {
+				"label": "",
+				"heading": "Projects",
+				"link_text": "All news",
+				"link_aria_label_text": "All news about Projects",
+				"button_style": "secondary",
+				"full_width": true,
+				"offset_top_desktop": 100,
+				"offset_bottom_desktop": 100,
+				"offset_top_mobile": 100,
+				"offset_bottom_mobile": 100
+			}
+		},
+		"gallery": {
+			"type": "gallery",
+			"settings": {
+				"overlay_opacity": 50,
+				"overlay_color": "#000000",
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"newsletter": {
+			"type": "newsletter",
+			"settings": {
+				"layout": "two_column",
+				"heading": "Newsletter",
+				"subheading": "The Latest products & Offers",
+				"success_message": "Thanks for subscribing",
+				"text": "<p>Be the first to know about new collections and exclusive offers</p>",
+				"image_position": "left",
+				"email_placeholder": "Your email",
+				"button_aria_label": "Submit",
+				"section_background": "#f7f7f7",
+				"heading_color": "#757575",
+				"text_color": "#000000",
+				"input_color": "#000000",
+				"input_border_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		}
+	},
+	"order": [
+		"slideshow",
+		"ticker_1",
+		"collection_list_1",
+		"featured-collection",
+		"reviews",
+		"image_with_text_1",
+		"image_with_text_2",
+		"trend_products",
+		"grid-images",
+		"product_tabs",
+		"product_banner",
+		"shop_by_brand",
+		"banner_1",
+		"ticker_2",
+		"featured_product",
+		"banner_2",
+		"text_section",
+		"shop_the_look",
+		"banner_3",
+		"story_telling",
+		"gallery_carousel",
+		"swipe",
+		"featured-blog",
+		"gallery",
+		"newsletter"
+	]
+}

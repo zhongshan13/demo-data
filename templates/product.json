@@ -1,0 +1,482 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"product-template": {
+			"type": "product-template",
+			"blocks": {
+				"badges": {
+					"type": "badges",
+					"settings": {}
+				},
+				"vendor": {
+					"type": "vendor",
+					"disabled": true,
+					"settings": {}
+				},
+				"title": {
+					"type": "title",
+					"settings": {}
+				},
+				"sku_reviews": {
+					"type": "sku_reviews",
+					"settings": {
+						"show_sku": true,
+						"sku_text": "Art: %SKU%"
+					}
+				},
+				"options": {
+					"type": "options",
+					"settings": {
+						"show_labels": true,
+						"show_size_guide": true,
+						"variant_picker": "radio",
+						"size_guide_option_name": "Size",
+						"size_guide_tab_general_name": "Dimensions",
+						"size_guide_tab_model_name": "Parameters of the model in the photo",
+						"size_guide_title": "Size guide",
+						"size_guide_text": "Size Guide"
+					}
+				},
+				"custom_field": {
+					"type": "custom_field",
+					"settings": {
+						"field_label": "Your best wishes",
+						"required_text": ""
+					}
+				},
+				"inventory_status": {
+					"type": "inventory_status",
+					"settings": {
+						"inv_low_stock_text": "Low stock",
+						"inv_high_stock_text": "In stock, ready to ship",
+						"low_stock_threshold": 10
+					}
+				},
+				"quantity": {
+					"type": "quantity",
+					"settings": {
+						"show_label": true
+					}
+				},
+				"price": {
+					"type": "price",
+					"settings": {}
+				},
+				"sales_point_1": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Worldwide shipping"
+					}
+				},
+				"sales_point_2": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Unic design"
+					}
+				},
+				"sales_point_3": {
+					"type": "sales_point",
+					"settings": {
+						"sales_point_text": "Made with LOVE"
+					}
+				},
+				"notify_me": {
+					"type": "notify_me",
+					"settings": {
+						"notify_me_button_label": "Email me when available",
+						"notify_me_form_heading": "Notified by email when this product becomes available",
+						"notify_me_form_email_placeholder": "Your email",
+						"notify_me_form_submit_button_label": "Notify me when available",
+						"notify_me_form_success_message": "Email has been successfully sent"
+					}
+				},
+				"ask_question": {
+					"type": "ask_question",
+					"settings": {
+						"button_label": "Ask a question",
+						"heading": "Have a question?",
+						"email_placeholder": "Email*",
+						"name_placeholder": "Name*",
+						"phone_placeholder": "Phone",
+						"product_url": "Reference URL*",
+						"message_placeholder": "Write message*",
+						"success_message": "Email has been successfully sent",
+						"submit_button_label": "Submit"
+					}
+				},
+				"add_to_cart": {
+					"type": "add_to_cart",
+					"settings": {
+						"button_type": "secondary",
+						"show_additional_buttons": true,
+						"show_enabled_payment_types": true,
+						"show_gift_card_recipient": true
+					}
+				},
+				"pickup_availability": {
+					"type": "pickup_availability",
+					"settings": {}
+				},
+				"drawers": {
+					"type": "drawers",
+					"settings": {
+						"show_description": true,
+						"description_toggle_text": "DESCRIPTION",
+						"description_drawer_title": "Description",
+						"shipping_and_returns_toggle_text": "SHIPPING & RETURNS",
+						"shipping_and_returns_drawer_title": "Shipping and returns",
+						"custom_drawer_title_1": "Drawer heading"
+					}
+				}
+			},
+			"block_order": [
+				"badges",
+				"vendor",
+				"title",
+				"sku_reviews",
+				"options",
+				"custom_field",
+				"inventory_status",
+				"quantity",
+				"price",
+				"sales_point_1",
+				"sales_point_2",
+				"sales_point_3",
+				"notify_me",
+				"ask_question",
+				"add_to_cart",
+				"pickup_availability",
+				"drawers"
+			],
+			"settings": {
+				"is_lazy": true,
+				"is_zoom_enabled": true,
+				"show_borders": false,
+				"show_arrows_mobile": true,
+				"media_layout": "carousel",
+				"thumbnails_position": "bottom",
+				"media_height": "full_size",
+				"stacked_smooth_scroll": true,
+				"show_taxes_included": true,
+				"show_pay_installments": true,
+				"show_share_buttons": true,
+				"show_sticky_add_to_cart": false,
+				"border_color": "#e6e6e6",
+				"ui_button_color": "#000000",
+				"ui_button_background_color": "#ffffff",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 50,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 32
+			}
+		},
+		"simple-description": {
+			"type": "simple-description",
+			"settings": {
+				"heading": "MORE INFO",
+				"content": "<p>You can choose colors to match your nursery bedding or decor. Choose as many colors as you need. Have doubts regarding different shades? Please contact us via <a href=\"/pages/contact\" title=\"Contact\"><strong>Contact form</strong></a><strong> </strong>button in the bottom of the page. Indicate custom colors during the check out.</p>",
+				"content_alignment": "center",
+				"block_alignment": "center",
+				"offset_top_desktop": 50,
+				"offset_bottom_desktop": 50,
+				"offset_top_mobile": 25,
+				"offset_bottom_mobile": 25
+			}
+		},
+		"image_compare": {
+			"type": "image-compare",
+			"settings": {
+				"heading": "",
+				"text": "",
+				"desktop_image_height": "600px",
+				"mobile_image_height": "400px",
+				"full_width": true,
+				"offset_top_desktop": 30,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 40,
+				"offset_bottom_mobile": 0,
+				"drag_cursor_background": "#ffffff",
+				"drag_cursor_color": "#000000"
+			}
+		},
+		"faq_simple": {
+			"type": "faq-simple",
+			"blocks": {
+				"faq_simple_0": {
+					"type": "category",
+					"settings": {
+						"heading": "General"
+					}
+				},
+				"faq_simple_1": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "How are handmade paper products different from commercially produced paper products?",
+						"text": "<p>Handmade paper products are crafted using traditional techniques, often involving manual labor and sustainable materials. They exhibit unique textures, colors, and variations, adding a distinctive touch to each piece. Commercially produced paper, on the other hand, is typically mass-produced using machinery, resulting in consistent but less individualized products.</p>"
+					}
+				},
+				"faq_simple_2": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "Are handmade paper products environmentally friendly?",
+						"text": "<p>Yes, handmade paper products are generally considered environmentally friendly. They are often crafted from recycled or sustainable materials like cotton, plant fibers, or agricultural waste. Additionally, the manufacturing process of handmade paper typically involves less energy consumption and chemical usage compared to large-scale paper production, making it a more sustainable choice.</p>"
+					}
+				},
+				"faq_simple_3": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "How can I care for and maintain my handmade paper products?",
+						"text": "<p>To ensure the longevity of your handmade paper products, it's important to handle them with care. Keep them away from direct sunlight and excessive moisture, as these factors can cause fading and deterioration. If necessary, gently clean the products using a soft cloth or brush. Avoid exposing them to harsh chemicals or abrasive materials. With proper care, your handmade paper products can last for years and retain their beauty.</p>"
+					}
+				},
+				"faq_simple_4": {
+					"type": "category",
+					"settings": {
+						"heading": "Shipping"
+					}
+				},
+				"faq_simple_5": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "What packaging materials are used to ship handmade paper products?",
+						"text": "<p>We take utmost care in packaging our handmade paper products to ensure their safe delivery. We use protective materials such as acid-free tissue paper, bubble wrap, or foam inserts to safeguard the items during transit. Additionally, we use sturdy cardboard boxes or mailing tubes designed to prevent bending or crushing.</p>"
+					}
+				},
+				"faq_simple_6": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "Do we have local pickup?",
+						"text": "<p>Yes, we have the option of self-pickup from our stores.</p><p>For detailed information please contact us.</p>"
+					}
+				},
+				"faq_simple_7": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "How long does it take to ship handmade paper products?",
+						"text": "<p>The shipping time for handmade paper products can vary depending on several factors, including the destination and the shipping method selected. Generally, domestic shipments within the same country may take anywhere from 2 to 7 business days. International shipments usually range from 7 to 21 business days, depending on the location and customs clearance. Please note that these are estimated time frames and can be subject to delays beyond our control.</p>"
+					}
+				},
+				"faq_simple_8": {
+					"type": "faq_item",
+					"settings": {
+						"heading": "Do you provide tracking information for shipped handmade paper products?",
+						"text": "<p>Yes, we provide tracking information for all our shipped handmade paper products. Once your order is dispatched, we will send you a confirmation email containing the tracking number and instructions on how to track your shipment. You can use this tracking number to monitor the progress of your package and get real-time updates on its whereabouts.</p>"
+					}
+				}
+			},
+			"block_order": [
+				"faq_simple_0",
+				"faq_simple_1",
+				"faq_simple_2",
+				"faq_simple_3",
+				"faq_simple_4",
+				"faq_simple_5",
+				"faq_simple_6",
+				"faq_simple_7",
+				"faq_simple_8"
+			],
+			"settings": {
+				"heading": "FAQ",
+				"offset_top_desktop": 60,
+				"offset_bottom_desktop": 60,
+				"offset_top_mobile": 30,
+				"offset_bottom_mobile": 30
+			}
+		},
+		"images-row": {
+			"type": "images-row",
+			"blocks": {
+				"image_row_1": {
+					"type": "row_image",
+					"settings": {}
+				},
+				"image_row_2": {
+					"type": "row_image",
+					"settings": {}
+				}
+			},
+			"block_order": [
+				"image_row_1",
+				"image_row_2"
+			],
+			"disabled": true,
+			"settings": {
+				"is_lazy": true,
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 50,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 25
+			}
+		},
+		"image-with-text_1": {
+			"type": "image-with-text",
+			"settings": {
+				"image_position": "left",
+				"text_alignment": "left",
+				"heading": "About the bags",
+				"subheading": "",
+				"text_content": "<p>The name Rains celebrates the basic element to which Rains products are designed to protect the wearer from: rain. </p>",
+				"button_label": "Learn more",
+				"button_aria_label": "Learn more",
+				"button_url": "/",
+				"button_style": "primary",
+				"is_show_border_top": false,
+				"is_show_border_bottom": false,
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 60,
+				"offset_bottom_mobile": 60
+			}
+		},
+		"image-with-text_2": {
+			"type": "image-with-text",
+			"settings": {
+				"image_position": "right",
+				"text_alignment": "left",
+				"heading": "About the bags",
+				"subheading": "",
+				"text_content": "<p>The name Rains celebrates the basic element to which Rains products are designed to protect the wearer from: rain. </p>",
+				"button_label": "Learn more",
+				"button_aria_label": "Learn more",
+				"button_url": "/",
+				"button_style": "primary",
+				"is_show_border_top": false,
+				"is_show_border_bottom": false,
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 40
+			}
+		},
+		"product-recommendations": {
+			"type": "product-recommendations",
+			"settings": {
+				"heading": "YOU WATCHED BEFORE",
+				"subheading": "",
+				"enable_shopify_recommendations": false,
+				"products_to_show": 4,
+				"show_recently_viewed": true,
+				"recently_viewed_label": "Recently viewed",
+				"recently_viewed_limit": 4,
+				"layout": "alternative",
+				"enable_cards_indent": false,
+				"full_width": true,
+				"offset_top_desktop": 70,
+				"offset_bottom_desktop": 50,
+				"offset_top_mobile": 50,
+				"offset_bottom_mobile": 50
+			}
+		},
+		"benefits": {
+			"type": "benefits",
+			"blocks": {
+				"benefits_0": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "100 days return",
+						"text": "No questions asked",
+						"block_link": "/",
+						"button_aria": "Read more about Shipping and Delivery"
+					}
+				},
+				"benefits_1": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Lifetime Warranty",
+						"text": "For original owners",
+						"block_link": "/",
+						"button_aria": "Read more about Privacy Policy"
+					}
+				},
+				"benefits_2": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Heading",
+						"text": "Benefit text",
+						"block_link": "/",
+						"button_aria": "Go to Contact page"
+					}
+				}
+			},
+			"block_order": [
+				"benefits_0",
+				"benefits_1",
+				"benefits_2"
+			],
+			"settings": {
+				"section_background": "#ffffff",
+				"heading_color": "#000000",
+				"text_color": "#757575",
+				"border_color": "#e6e6e6",
+				"full_width": true,
+				"show_borders": false,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 60,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 50
+			}
+		},
+		"newsletter": {
+			"type": "newsletter",
+			"settings": {
+				"layout": "two_column",
+				"heading": "Newsletter",
+				"subheading": "SubheadingThe Latest products & Offers",
+				"success_message": "Thanks for subscribing",
+				"text": "<p>Be the first to know about new collections and exclusive offers</p>",
+				"image_position": "left",
+				"email_placeholder": "Your email",
+				"button_aria_label": "Submit",
+				"section_background": "#fafafa",
+				"heading_color": "#757575",
+				"text_color": "#151515",
+				"input_color": "#151515",
+				"input_border_color": "#c4c4c4",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 50,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"ticker": {
+			"type": "ticker",
+			"settings": {
+				"text": "<p>$3.99 flat rate shipping | Free shippin on orders $50+(Cont.US) Subscribe Today</p><p>Free shipping on orders over $44 Lear More</p><p>Become a subscriber and receive 15% off + free shipping! Lear More</p>",
+				"desktop_movement_speed": 100,
+				"mobile_movement_speed": 100,
+				"section_background": "#ffffff",
+				"text_color": "#151515",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		}
+	},
+	"order": [
+		"product-template",
+		"simple-description",
+		"image_compare",
+		"faq_simple",
+		"images-row",
+		"image-with-text_1",
+		"image-with-text_2",
+		"product-recommendations",
+		"benefits",
+		"newsletter",
+		"ticker"
+	]
+}

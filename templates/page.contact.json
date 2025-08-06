@@ -1,0 +1,129 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+	"sections": {
+		"contact-page-template": {
+			"type": "contact-page-template",
+			"settings": {
+				"info_heading": "Contact information",
+				"address_heading": "Our address",
+				"address_text": "<p>Mio Gallery BV <br/>Begijnenvest 40<br/>Antwerpen, 2000 <br/>Belgium</p>",
+				"phone_heading": "Phone",
+				"phone_text": "<p><a href=\"tel:+32468411762\" title=\"tel:+32468411762\">+32468411762</a></p>",
+				"email_heading": "For general inquires",
+				"email_text": "<p><a href=\"mailto:miogallery@gmail.com\">miogallery@gmail.com</a></p>",
+				"social_heading": "Follow us",
+				"show_social": true,
+				"map_query": "Eiffel+Tower,Paris+France",
+				"map_url": "https://goo.gl/maps/PBiq6DGwffTryEy49",
+				"form_heading": "Get in touch",
+				"name_placeholder": "Your name...",
+				"email_placeholder": "Your email...",
+				"message_placeholder": "Your message...",
+				"submit_label": "Send",
+				"offset_top_desktop": 60,
+				"offset_bottom_desktop": 60,
+				"offset_top_mobile": 50,
+				"offset_bottom_mobile": 50
+			}
+		},
+		"benefits": {
+			"type": "benefits",
+			"blocks": {
+				"benefits_0": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "100 days return",
+						"text": "No questions asked",
+						"block_link": "/",
+						"button_aria": "Read more about Shipping and Delivery"
+					}
+				},
+				"benefits_1": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Lifetime Warranty",
+						"text": "For original owners",
+						"block_link": "/",
+						"button_aria": "Read more about Privacy Policy"
+					}
+				},
+				"benefits_2": {
+					"type": "benefits_item",
+					"settings": {
+						"heading": "Customer Service",
+						"text": "Our priority",
+						"block_link": "/",
+						"button_aria": "Go to Contact page"
+					}
+				}
+			},
+			"block_order": [
+				"benefits_0",
+				"benefits_1",
+				"benefits_2"
+			],
+			"settings": {
+				"section_background": "#ffffff",
+				"heading_color": "#000000",
+				"text_color": "#757575",
+				"border_color": "#000000",
+				"full_width": true,
+				"show_borders": true,
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 60,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 60
+			}
+		},
+		"newsletter": {
+			"type": "newsletter",
+			"settings": {
+				"layout": "two_column",
+				"heading": "Newsletter",
+				"subheading": "The Latest products & Offers",
+				"success_message": "Thanks for subscribing",
+				"text": "<p>Be the first to know about new collections and exclusive offers</p>",
+				"image_position": "left",
+				"email_placeholder": "Your email",
+				"button_aria_label": "Submit",
+				"section_background": "#fafafa",
+				"heading_color": "#757575",
+				"text_color": "#000000",
+				"input_color": "#000000",
+				"input_border_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		},
+		"ticker": {
+			"type": "ticker",
+			"settings": {
+				"text": "<p>$3.99 flat rate shipping | Free shippin on orders $50+(Cont.US) Subscribe Today</p><p>Free shipping on orders over $44 Lear More</p><p>Become a subscriber and receive 15% off + free shipping!</p>",
+				"desktop_movement_speed": 100,
+				"mobile_movement_speed": 96,
+				"section_background": "#ffffff",
+				"text_color": "#000000",
+				"offset_top_desktop": 0,
+				"offset_bottom_desktop": 0,
+				"offset_top_mobile": 0,
+				"offset_bottom_mobile": 0
+			}
+		}
+	},
+	"order": [
+		"contact-page-template",
+		"benefits",
+		"newsletter",
+		"ticker"
+	]
+}

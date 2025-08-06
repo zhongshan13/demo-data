@@ -1,0 +1,193 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "enable_autoplay": true,
+        "autoplay_speed": 5,
+        "show_announcement_bar": true,
+        "layout": "countdown_timer",
+        "background_image_type": "cover",
+        "show_bottom_border": true,
+        "show_socials": false,
+        "additional_menu": "",
+        "text_content_desktop": "<p>Up to 50% off in Black Friday</p>",
+        "text_content_mobile": "<p>Up to 50% off Final Grand Sale</p>",
+        "text_desktop": "Up to 50% off",
+        "text_mobile": "",
+        "timer_year": 2027,
+        "timer_month": "2",
+        "timer_day": "1",
+        "timer_hour": "0",
+        "timer_timezone": "+0",
+        "button_text": "Shop Now",
+        "button_link": "/",
+        "background_color": "#000000",
+        "border_bottom_color": "#e6e6e6",
+        "text_color": "#ffffff",
+        "link_color": "#ffffff",
+        "button_color": "#ffffff",
+        "button_background": "#000000",
+        "button_border": "#ffffff",
+        "button_cross_color": "#ffffff",
+        "button_color_hover": "#000000",
+        "button_background_hover": "#ffffff",
+        "button_border_hover": "#ffffff",
+        "button_cross_hover": "#757575",
+        "social_icon_color": "#000000",
+        "social_icon_color_hover": "#727272"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "megamenu-half-to-hal": {
+          "type": "megamenu-half-to-half",
+          "settings": {
+            "badge_text_color": "#ffffff",
+            "badge_background_color": "#cc0000",
+            "heading": "Our Story",
+            "subheading": "We dare to be different",
+            "short_text": "MIO GALLERY is a paper art studio, based in Antwerp, Belgium, that designs and creates bespoke paper art for window displays, exhibitions, photography, set design and props, fashion design and private decor using their own techniques and style.",
+            "button_label1": "Our Story",
+            "button_link1": "/",
+            "button1_style": "secondary",
+            "button_label2": "",
+            "button_link2": "/",
+            "button2_style": "secondary",
+            "show_shadow": false,
+            "shadow_color": "",
+            "shadow_color_mobile": ""
+          }
+        },
+        "megamenu": {
+          "type": "megamenu",
+          "settings": {
+            "menu_type": "tabs",
+            "badge_text_color": "#ffffff",
+            "badge_background_color": "#cc0000",
+            "label": "",
+            "heading": "Wall Paper Flowers",
+            "link": "/",
+            "product1": "wooden-christmas-wreath",
+            "label2": "",
+            "heading2": "Single Paper Flowers",
+            "link2": "/"
+          }
+        },
+        "megamenu-images": {
+          "type": "megamenu-images",
+          "settings": {
+            "badge_text_color": "#ffffff",
+            "badge_background_color": "#cc0000",
+            "label": "",
+            "heading": "RIGGS HOTEL",
+            "link": "/",
+            "link_label": "RIGGS WASHINGTON DC",
+            "label2": "",
+            "heading2": "MIO GALLERY",
+            "link2": "/",
+            "link_label2": "MIO GALLERY. STUDIO",
+            "label3": "",
+            "heading3": "FULLSENCE AGENCY",
+            "link3": "/",
+            "link_label3": "FULLSENCE AGENCY",
+            "label4": "",
+            "heading4": "And more...",
+            "link4": "/",
+            "link_label4": "Show All Projects"
+          }
+        }
+      },
+      "block_order": [
+        "megamenu",
+        "megamenu-images"
+      ],
+      "settings": {
+        "header_type": "sticky_hide",
+        "enable_transparent_header": false,
+        "enable_bottom_border": true,
+        "enable_mega_menu_borders": true,
+        "is_show_box_shadow": true,
+        "is_show_language_selector": false,
+        "is_show_country_selector": false,
+        "logo_width": 175,
+        "logo_position": "left",
+        "menu": "main-menu",
+        "menu_type_desktop": "both",
+        "open_menu_type": "hover",
+        "header_bg": "#ffffff",
+        "mobile_menu_bg": "#ffffff",
+        "text_color": "#000000",
+        "text_color_transparent": "#ffffff",
+        "icon_color": "#000000",
+        "icon_color_transparent": "#ffffff",
+        "count_text_color": "#ffffff",
+        "count_text_color_transparent": "#000000",
+        "count_text_bg": "#000000",
+        "count_text_bg_transparent": "#ffffff",
+        "border_color": "#e6e6e6",
+        "megamenu_image_text": "#ffffff",
+        "megamenu_overlay_color": "linear-gradient(89deg, rgba(8, 8, 8, 0.2), rgba(8, 8, 8, 0.2) 98%)"
+      }
+    },
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "blocks": {
+        "richtext": {
+          "type": "richtext",
+          "settings": {
+            "text": "If you need unique project, please Contact Us",
+            "text_color": "#ffffff",
+            "text_background_color": "#000000"
+          }
+        },
+        "items": {
+          "type": "items",
+          "settings": {}
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "heading": "You might also like"
+          }
+        },
+        "selling": {
+          "type": "shipping",
+          "settings": {
+            "amount": 500,
+            "message": "You are only ${amount} away from free shipping",
+            "congratulatory_message": "You got free shipping"
+          }
+        }
+      },
+      "block_order": [
+        "richtext",
+        "items",
+        "upsell",
+        "selling"
+      ],
+      "settings": {
+        "heading": "Your cart",
+        "show_cart_items_count": true,
+        "show_gift_wrap_button": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header",
+    "cart-drawer"
+  ]
+}

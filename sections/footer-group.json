@@ -1,0 +1,82 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+
+{
+	"type": "footer",
+	"name": "Footer group",
+	"sections": {
+		"footer": {
+			"type": "footer",
+			"blocks": {
+				"text": {
+					"type": "text",
+					"settings": {
+						"heading": "About",
+						"text_content": "<p>Mio Gallery is a paper art studio that designs and creates bespoke paper art, set design, paper props and paper decor for window displays, exhibitions, photography and private decor.</p><p>Custom design. Worldwide installation. Made in Belgium, EU.</p>",
+						"show_media_links": true
+					}
+				},
+				"menu": {
+					"type": "menu",
+					"settings": {
+						"menu_heading": "collections",
+						"menu": "footer"
+					}
+				},
+				"menu_2": {
+					"type": "menu",
+					"settings": {
+						"menu_heading": "navigate",
+						"menu": "footer"
+					}
+				},
+				"menu_3": {
+					"type": "menu",
+					"settings": {
+						"menu_heading": "help",
+						"menu": "footer"
+					}
+				}
+			},
+			"block_order": [
+				"text",
+				"menu",
+				"menu_2",
+				"menu_3"
+			],
+			"settings": {
+				"logo_image_width": 250,
+				"show_top_border": false,
+				"copyright_text": "Copyright © %date%.",
+				"show_back_to_top_button": false,
+				"is_show_country_selector": true,
+				"is_show_language_selector": true,
+				"is_show_payment_methods": true,
+				"enable_follow_on_shop": true,
+				"section_background": "#1B1B1B",
+				"border_top_color": "#e6e6e6",
+				"menu_headings_color": "#8D8D8D",
+				"text_color": "#FFFFFF",
+				"copyright_text_color": "#8D8D8D",
+				"link_color": "#FFFFFF",
+				"link_hover_color": "#dddddd",
+				"button_icon_color_social": "#FFFFFF",
+				"button_background_color_social": "transparent",
+				"button_border_color_social": "#FFFFFF",
+				"button_icon_color_social_hover": "#000000",
+				"button_background_color_social_hover": "#FFFFFF",
+				"button_border_color_social_hover": "#000000"
+			}
+		}
+	},
+	"order": [
+		"footer"
+	]
+}
